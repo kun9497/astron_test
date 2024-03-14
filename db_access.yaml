@@ -1,0 +1,9 @@
+rdb:
+  prod: mysql
+  user: KrwepmaI8AxQ01fO8SZytQ==
+  pass: EXJUhtsZRX0db/NtaXwOpQ==
+  addr: "192.168.219.147:8306"
+redis:
+  addr: 192.168.219.253:6379
+  pass: tUKGhY1FgL4p6YB/fVWSyg==
+  db: 0
